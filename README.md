@@ -65,3 +65,4 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 # pusher-vue
 # laravel-pusher-app
 # pusher_app
+# laravel-vue-pusher
